@@ -9,6 +9,12 @@
         "name": "Stacey Barretto"
       }
     ],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "ThreatDiagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
